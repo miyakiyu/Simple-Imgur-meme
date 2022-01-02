@@ -5,3 +5,4 @@ For crawler memes from Imgur
 
 2.Auto create the folder
 
+3.If you want to crawler others,please change the search?q="meme" to anything you want.
